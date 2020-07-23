@@ -1,4 +1,6 @@
-# Asana API Call as a Function in Google Sheets
+# Googlesheets & Asana 
+
+## 1. Asana API Call as a Function in Google Sheets
 
 ![image](https://user-images.githubusercontent.com/9472095/87558145-aa2f6d00-c6b0-11ea-899c-4156f2d15ef7.png)
 
@@ -18,5 +20,5 @@ The input should contain the Asana Project ID - `gid` which is usually displayed
 
 The function then reads the latest progress update for the given project id from Asana and drops it inplace of the function.
 
-
+## 2. Asana UI script to retrieve all the updates from a portfolio of projects
 
