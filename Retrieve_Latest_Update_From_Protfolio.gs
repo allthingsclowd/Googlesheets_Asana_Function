@@ -7,7 +7,7 @@ function onOpen() {
 
 function GET_ASANA_PORTFOLIO_UPDATE() {
   
-  var PORTFOLIO_ID = "1169387338819489";
+  var PORTFOLIO_ID = "Portfolio_ID Goes Here";
   var token = "<Asana Token Goes Here>";
   var sheet = SpreadsheetApp.getActiveSheet();
   sheet.setName("OppBluePrints");
