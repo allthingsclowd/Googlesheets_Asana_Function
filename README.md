@@ -26,3 +26,5 @@ file - `Retrieve_Latest_Update_From_Protfolio.gs`
 ## 3. Google Sheets UI script to retrieve custom fields of interest from a portfolio of projects in Asana
 file - `retrieve_custom_fields_from_projects.gs`
 
+## 4. Script to read in portfolio data and product a formatted Summary & PIE Chart
+file - `Eligible_Accounts_AllInOne.gs`
