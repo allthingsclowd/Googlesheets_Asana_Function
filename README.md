@@ -32,3 +32,5 @@ file - `Eligible_Accounts_AllInOne.gs`
 
 ## 5. Putting it all together in a single automated spreadsheet
 file - `Weekly_Reports.gs` this is extremely untidy and not recommended for anyone really - this is a work in progress
+![image](https://user-images.githubusercontent.com/9472095/91070963-76d8ea00-e62f-11ea-8190-f142b5e84ea3.png)
+
