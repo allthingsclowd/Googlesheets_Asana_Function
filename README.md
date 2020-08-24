@@ -29,3 +29,6 @@ file - `retrieve_custom_fields_from_projects.gs`
 ## 4. Script to read in portfolio data and product a formatted Summary & PIE Chart
 file - `Eligible_Accounts_AllInOne.gs`
 ![image](https://user-images.githubusercontent.com/9472095/88834739-2c00b980-d1cc-11ea-8c6a-580e44b86592.png)
+
+## 5. Putting it all together in a single automated spreadsheet
+file - `Weekly_Reports.gs` this is extremely untidy and not recommended for anyone really - this is a work in progress
