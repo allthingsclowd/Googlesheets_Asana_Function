@@ -1,4 +1,4 @@
-# Googlesheets & Asana 
+# Googlesheets, Asana & Salesforce integrated reporting 
 
 ## 1. Google Sheets Custom Function to make an Asana API call 
 
